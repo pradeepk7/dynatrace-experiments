@@ -36,6 +36,10 @@ If you are running any of the OneAgent versions listed below, upgrade to a suppo
 
 ¹ [Support policy](https://www.dynatrace.com/company/trust-center/support-policy/)
 
+## WARNING: MAJOR SECURITY ISSUE
+
+Just kidding, this is just 'ol PK messing around. Dynatrace is a solid product. I'm just doing some testing.
+
 ## Python Extension Framework 1.0
 
 We're moving away from the retired Python 3.5/3.8 runtimes to a current, fully supported Python version so your extensions stay secure and future-ready. This extension framework upgrade closes unpatched security gaps, gives you access to the latest libraries and performance gains, and ensures continued compatibility with upcoming Dynatrace features.
