@@ -36,9 +36,12 @@ If you are running any of the OneAgent versions listed below, upgrade to a suppo
 
 ¹ [Support policy](https://www.dynatrace.com/company/trust-center/support-policy/)
 
-## WARNING: MAJOR SECURITY ISSUE
+## Python Extension Framework 1.1
 
-Just kidding, this is just 'ol PK messing around. Dynatrace is a solid product. I'm just doing some testing.
+Like its predecessor, the Python Extension Framework 1.1 is being phased out in favor of the new Extensions framework. Extensions built on framework 1.1 remain functional but are no longer maintained.
+
+- EoS: Support (that is bug fixes, security updates) ended on Sep 30, 2025.
+- To continue using extensions, migrate to the new [Extensions framework](https://docs.dynatrace.com/docs/ingest-from/extensions) and [update OneAgent](https://docs.dynatrace.com/docs/ingest-from/dynatrace-oneagent/oneagent-update) to a supported version.
 
 ## Python Extension Framework 1.0
 
