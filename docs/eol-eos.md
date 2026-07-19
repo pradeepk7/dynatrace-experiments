@@ -38,10 +38,10 @@ If you are running any of the OneAgent versions listed below, upgrade to a suppo
 
 ## Python Extension Framework 1.1
 
-Like its predecessor, the Python Extension Framework 1.1 is being phased out in favor of the new Extensions framework. Extensions built on framework 1.1 remain functional but are no longer maintained.
+Like its predecessor, the Python Extension Framework 1.1 is being phased out in favor of the new Extensions framework. OneAgent version 1.500 is the last release that supports the Python Extension Framework 1.1; extensions built on framework 1.1 remain functional until the OneAgent 1.500 EoL date (Jun 1, 2026) but are no longer maintained.
 
 - EoS: Support (that is bug fixes, security updates) ended on Sep 30, 2025.
-- To continue using extensions, migrate to the new [Extensions framework](https://docs.dynatrace.com/docs/ingest-from/extensions) and [update OneAgent](https://docs.dynatrace.com/docs/ingest-from/dynatrace-oneagent/oneagent-update) to a supported version.
+- To continue using extensions after the OneAgent version 1.500 EoL date, migrate to the new [Extensions framework](https://docs.dynatrace.com/docs/ingest-from/extensions) and [update OneAgent](https://docs.dynatrace.com/docs/ingest-from/dynatrace-oneagent/oneagent-update) to a supported version.
 
 ## Python Extension Framework 1.0
 
