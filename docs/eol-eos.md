@@ -28,11 +28,11 @@ If you are running any of the OneAgent versions listed below, upgrade to a suppo
 
 | OneAgent versions | Standard EoS¹ | EoL |
 |---|---|---|
-| 1.500 and earlier | 2020 | Jun 1, 2026 |
 | 1.141 and earlier | 2018 | Aug 1, 2025 |
 | 1.215 and earlier | April 29, 2022 | Oct 1, 2025 |
 | 1.241 and earlier | June 8, 2023 | Jan 1, 2026 |
 | 1.299 and earlier | Sep 30, 2025 | Sep 1, 2026 |
+| 1.500 and earlier | 2020 | Jun 1, 2026 |
 
 ¹ [Support policy](https://www.dynatrace.com/company/trust-center/support-policy/)
 
